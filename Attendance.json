@@ -1,0 +1,277 @@
+[
+    {
+        "date": "2023-08-01",
+        "users": [
+            {
+                "userEmail": "sam@example.com",
+                "isPresent": false,
+                "task": "Notcompleted"
+            },
+            {
+                "userEmail": "Nithish@example.com",
+                "isPresent": true,
+                "task": "completed"
+            },
+            {
+                "userEmail": "lokesh@example.com",
+                "isPresent": true,
+                "task": "completed"
+            },
+            {
+                "userEmail": "guna@example.com",
+                "isPresent": false,
+                "task": "Notcompleted"
+            }
+        ]
+    },
+    {
+        "date": "2023-08-02",
+        "users": [
+            {
+                "userEmail": "sam@example.com",
+                "isPresent": true,
+                "task": "completed"
+            },
+            {
+                "userEmail": "Nithish@example.com",
+                "isPresent": true,
+                "task": "completed"
+            },
+            {
+                "userEmail": "lokesh@example.com",
+                "isPresent": false,
+                "task": "Notcompleted"
+            },
+            {
+                "userEmail": "guna@example.com",
+                "isPresent": false,
+                "task": "completed"
+            }
+        ]
+    },
+    {
+        "date": "2023-08-03",
+        "users": [
+            {
+                "userEmail": "sam@example.com",
+                "isPresent": true,
+                "task": "completed"
+            },
+            {
+                "userEmail": "Nithish@example.com",
+                "isPresent": false,
+                "task": "Notcompleted"
+            },
+            {
+                "userEmail": "lokesh@example.com",
+                "isPresent": false,
+                "task": "Notcompleted"
+            },
+            {
+                "userEmail": "guna@example.com",
+                "isPresent": false,
+                "task": "Notcompleted"
+            }
+        ]
+    },
+    {
+        "date": "2020-09-15",
+        "users": [
+            {
+                "userEmail": "sam@example.com",
+                "isPresent": false,
+                "task": "Notcompleted"
+            },
+            {
+                "userEmail": "Nithish@example.com",
+                "isPresent": true,
+                "task": "completed"
+            },
+            {
+                "userEmail": "lokesh@example.com",
+                "isPresent": true,
+                "task": "completed"
+            },
+            {
+                "userEmail": "guna@example.com",
+                "isPresent": true,
+                "task": "completed"
+            }
+        ]
+    },
+    {
+        "date": "2023-09-20",
+        "users": [
+            {
+                "userEmail": "sam@example.com",
+                "isPresent": true,
+                "task": "completed"
+            },
+            {
+                "userEmail": "Nithish@example.com",
+                "isPresent": false,
+                "task": "Notcompleted"
+            },
+            {
+                "userEmail": "lokesh@example.com",
+                "isPresent": false,
+                "task": "Notcompleted"
+            },
+            {
+                "userEmail": "guna@example.com",
+                "isPresent": true,
+                "task": "completed"
+            }
+        ]
+    },
+    {
+        "date": "2023-09-",
+        "users": [
+            {
+                "userEmail": "sam@example.com",
+                "isPresent": true,
+                "task": "completed"
+            },
+            {
+                "userEmail": "Nithish@example.com",
+                "isPresent": true,
+                "task": "completed"
+            },
+            {
+                "userEmail": "lokesh@example.com",
+                "isPresent": true,
+                "task": "completed"
+            },
+            {
+                "userEmail": "guna@example.com",
+                "isPresent": true,
+                "task": "completed"
+            }
+        ]
+    },
+    {
+        "date": "2023-10-01",
+        "users": [
+            {
+                "userEmail": "sam@example.com",
+                "isPresent": true,
+                "task": "completed"
+            },
+            {
+                "userEmail": "Nithish@example.com",
+                "isPresent": true,
+                "task": "completed"
+            },
+            {
+                "userEmail": "lokesh@example.com",
+                "isPresent": true,
+                "task": "completed"
+            },
+            {
+                "userEmail": "guna@example.com",
+                "isPresent": false,
+                "task": "Notcompleted"
+            }
+        ]
+    },
+    {
+        "date": "2023-10-02",
+        "users": [
+            {
+                "userEmail": "sam@example.com",
+                "isPresent": true,
+                "task": "completed"
+            },
+            {
+                "userEmail": "Nithish@example.com",
+                "isPresent": true,
+                "task": "completed"
+            },
+            {
+                "userEmail": "lokesh@example.com",
+                "isPresent": false,
+                "task": "Notcompleted"
+            },
+            {
+                "userEmail": "guna@example.com",
+                "isPresent": true,
+                "task": "completed"
+            }
+        ]
+    },
+    {
+        "date": "2023-10-03",
+        "users": [
+            {
+                "userEmail": "sam@example.com",
+                "isPresent": true,
+                "task": "completed"
+            },
+            {
+                "userEmail": "Nithish@example.com",
+                "isPresent": true,
+                "task": "completed"
+            },
+            {
+                "userEmail": "lokesh@example.com",
+                "isPresent": false,
+                "task": "Notcompleted"
+            },
+            {
+                "userEmail": "guna@example.com",
+                "isPresent": false,
+                "task": "Notcompleted"
+            }
+        ]
+    },
+    {
+        "date": "2023-11-01",
+        "users": [
+            {
+                "userEmail": "sam@example.com",
+                "isPresent": true,
+                "task": "completed"
+            },
+            {
+                "userEmail": "Nithish@example.com",
+                "isPresent": true,
+                "task": "completed"
+            },
+            {
+                "userEmail": "lokesh@example.com",
+                "isPresent": true,
+                "task": "completed"
+            },
+            {
+                "userEmail": "guna@example.com",
+                "isPresent": true,
+                "task": "completed"
+            }
+        ]
+    },
+    {
+        "date": "2023-11-02",
+        "users": [
+            {
+                "userEmail": "sam@example.com",
+                "isPresent": true,
+                "task": "completed"
+            },
+            {
+                "userEmail": "Nithish@example.com",
+                "isPresent": false,
+                "task": "Notcompleted"
+            },
+            {
+                "userEmail": "lokesh@example.com",
+                "isPresent": true,
+                "task": "completed"
+            },
+            {
+                "userEmail": "guna@example.com",
+                "isPresent": false,
+                "task": "Notcompleted"
+            }
+        ]
+    }
+]

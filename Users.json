@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Sam",
+        "email": "sam@example.com",
+        "course": "MERN Stack",
+        "batch": "FSD56WE-T",
+        "mentor": {
+            "name": "Sanjay",
+            "email": "sanjay@example.com"
+        },
+        "codekata": 3
+    },
+    {
+        "name": "Nithish",
+        "email": "Nithish@example.com",
+        "course": "MERN Stack",
+        "batch": "FSD56WE-T",
+        "mentor": {
+            "name": "Sanjay",
+            "email": "sanjay@example.com"
+        },
+        "codekata": 4
+    },
+    {
+        "name": "Lokesh",
+        "email": "lokesh@example.com",
+        "course": "MEAN Stack",
+        "batch": "FSD59WE-T",
+        "mentor": {
+            "name": "Sathish",
+            "email": "sathish@example.com"
+        },
+        "codekata": 5
+    },
+    {
+        "name": "Kumar",
+        "email": "kumar@example.com",
+        "course": "Cyber Security",
+        "batch": "FSD50WA-T",
+        "mentor": {
+            "name": "Dinesh",
+            "email": "Dinesh@example.com"
+        },
+        "codekata": 7
+    },
+    {
+        "name": "Guna",
+        "email": "guna@example.com",
+        "course": "DATA SCIENCE",
+        "batch": "FSD56WE-T",
+        "mentor": {
+            "name": "Senthil",
+            "email": "senthil@example.com"
+        },
+        "codekata": 2
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Odd/Even",
+        "description": "Given a number, find whether it is Odd or Even",
+        "points": 10
+    },
+    {
+        "name": "Input/Output",
+        "description": "Write a code to get the input in the given format and print the output in the given format.",
+        "points": 10
+    },
+    {
+        "name": "Absolute Beginner",
+        "description": "You are given a number A in Kilometers. Convert this into B: Meters and C: Centi-Metres.",
+        "points": 10
+    },
+    {
+        "name": "Array",
+        "description": "You are given an array. Your task is to sort the array in given manner. Print the elements in increasing order of the frequency. If frequency is same print smaller one first.",
+        "points": 10
+    },
+    {
+        "name": "Mathematics",
+        "description": "In a firm there is an intelligent employee. He said that he will not work on all those days which has factors more than 2. You are given with month and year calculate the no of working days of employee.",
+        "points": 10
+    },
+    {
+        "name": "Strings",
+        "description": "You are given string ‘s’. Your task is to modify the string as mentioned",
+        "points": 10
+    },
+    {
+        "name": "Companies",
+        "description": "Given a sentence interchange the between the word 'and'.Input Size : |S| <= 1000000",
+        "points": 10
+    }
+]

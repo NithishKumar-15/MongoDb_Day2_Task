@@ -1,0 +1,78 @@
+[
+  {
+    "company": "Microsoft",
+    "date": "2020-09-01",
+    "students": [
+      "sam@example.com",
+      "Nithish@example.com",
+      "lokesh@example.com"
+    ]
+  },
+  {
+    "company": "HCL",
+    "date": "2020-09-15",
+    "students": [
+      "Nithish@example.com",
+      "guna@example.com"
+    ]
+  },
+  {
+    "company": "Tech Mahindra",
+    "date": "2020-09-20",
+    "students": [
+      "sam@example.com",
+      "Nithish@example.com",
+      "guna@example.com"
+    ]
+  },
+  {
+    "company": "Hexwar",
+    "date": "2020-09-22",
+    "students": [
+      "sam@example.com",
+      "Nithish@example.com"
+    ]
+  },
+  {
+    "company": "hyundai",
+    "date": "2020-09-25",
+    "students": [
+      "sam@example.com"
+    ]
+  },
+  {
+    "company": "TCS",
+    "date": "2023-09-29",
+    "students": [
+      "sam@example.com",
+      "Nithish@example.com"
+    ]
+  },
+  {
+    "company": "ZOHO",
+    "date": "2023-11-02",
+    "students": [
+      "sam@example.com",
+      "lokesh@example.com"
+    ]
+  },
+  {
+    "company": "Wipro",
+    "date": "2023-11-02",
+    "students": [
+      "sam@example.com",
+      "lokesh@example.com",
+      "kumar@example.com"
+    ]
+  },
+  {
+    "company": "Google",
+    "date": "2023-11-02",
+    "students": [
+      "sam@example.com",
+      "lokesh@example.com",
+      "kumar@example.com",
+      "guna@example.com"
+    ]
+  }
+]

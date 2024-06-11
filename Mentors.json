@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Sanjay",
+    "email": "sanjay@example.com",
+    "courses": [
+      "MERN",
+      "MEAN"
+    ],
+    "menteeCount": 10
+  },
+  {
+    "name": "sathish",
+    "email": "sathish@example.com",
+    "courses": [
+      "MERN",
+      "MEAN"
+    ],
+    "menteeCount": 16
+  },
+  {
+    "name": "Dinesh",
+    "email": "Dinesh@example.com",
+    "courses": [
+      "Cyber Security",
+      "NetWorking"
+    ],
+    "menteeCount": 20
+  },
+  {
+    "name": "Senthil",
+    "email": "Senthil@example.com",
+    "courses": [
+      "DATA SCIENCE"
+    ],
+    "menteeCount": 5
+  },
+  {
+    "name": "Velu",
+    "email": "velu@example.com",
+    "courses": [
+      "AWS"
+    ],
+    "menteeCount": 19
+  },
+  {
+    "name": "Rajan",
+    "email": "rajan@example.com",
+    "courses": [
+      "Machine Learning"
+    ],
+    "menteeCount": 18
+  }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "Task": "Day 1 HTML",
+        "dueDate": "2023-08-02",
+        "date": "2023-08-01"
+    },
+    {
+        "Task": "Day 2: CSS",
+        "dueDate": "2023-08-03",
+        "date": "2023-08-02"
+    },
+    {
+        "Task": "Day 3: JS",
+        "dueDate": "2023-09-01",
+        "date": "2023-08-03"
+    },
+    {
+        "Task": "Day 4: Bootstrap",
+        "dueDate": "2023-09-02",
+        "date": "2023-09-01"
+    },
+    {
+        "Task": "Day 5: React",
+        "dueDate": "2023-09-03",
+        "date": "2023-09-02"
+    },
+    {
+        "Task": "Day 6: MongoDB",
+        "dueDate": "2023-10-01",
+        "date": "2023-09-03"
+    },
+    {
+        "Task": "Day 7: NodeJS",
+        "dueDate": "2023-10-02",
+        "date": "2023-10-01"
+    },
+    {
+        "Task": "Day 8: ExpressJS",
+        "dueDate": "2023-10-03",
+        "date": "2023-10-02"
+    },
+    {
+        "Task": "Day 9: Data Structures and algorithms",
+        "dueDate": "2023-11-01",
+        "date": "2023-10-03"
+    },
+    {
+        "Task": "Day 10: AWS cloud deployment",
+        "dueDate": "2023-11-02",
+        "date": "2023-11-01"
+    },
+    {
+        "Task": "Day 10: Project",
+        "dueDate": "2023-11-03",
+        "date": "2023-11-02"
+    }
+
+]
